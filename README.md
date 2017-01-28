@@ -1,5 +1,5 @@
 # MPhil-Thesis
-The current repository contains the Web Appendix of my thesis.
+The current repository contains the Main Document and the Web Appendix of my thesis.
 
 The tables of the thesis are completely reproducible.
 
